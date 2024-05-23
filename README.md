@@ -12,7 +12,7 @@ A simple space shooter game created for fun and as part of my python learning pr
     
 3. Clone this repository:
     ```
-    git clone https://github.com/your-username/Yet-Another-Space-Shooter.git
+    git clone https://github.com/dharunkumar-t/Yet-Another-Space-Shooter.git
     ```
     
 4. Navigate to the project directory:
