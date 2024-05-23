@@ -1,6 +1,6 @@
 # Yet Another Space Shooter🚀
 
-A simple space shooter game created for fun and as part of my python learning process!
+A simple space shooter game created for fun and as part of my python learning progress!
 
 ## Installation
 1. Make sure you have Python installed on your system.
