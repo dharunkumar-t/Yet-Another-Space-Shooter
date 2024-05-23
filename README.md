@@ -22,7 +22,7 @@ A simple space shooter game created for fun and as part of my python learning pr
     
 5. Run the game:
     ```
-    python space-shooter.py
+    python space_shooter.py
     ```
 
 ### Manual Download
@@ -33,7 +33,7 @@ A simple space shooter game created for fun and as part of my python learning pr
 5. Navigate to the extracted project directory.
 6. Run the game:
     ```
-    python space-shooter.py
+    python space_shooter.py
     ```
 
 ## Gameplay
