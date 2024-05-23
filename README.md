@@ -22,7 +22,7 @@ A simple space shooter game created for fun and as part of my python learning pr
     
 5. Run the game:
     ```
-    python main.py
+    python space-shooter.py
     ```
 
 ## Gameplay
