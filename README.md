@@ -25,6 +25,17 @@ A simple space shooter game created for fun and as part of my python learning pr
     python space-shooter.py
     ```
 
+### Manual Download
+1. Go to the [GitHub repository page](https://github.com/dharunkumar-t/Yet-Another-Space-Shooter).
+2. Click on the green "Code" button.
+3. Select "Download ZIP" from the dropdown menu.
+4. Once the ZIP file is downloaded, extract its contents to your desired location.
+5. Navigate to the extracted project directory.
+6. Run the game:
+    ```
+    python space-shooter.py
+    ```
+
 ## Gameplay
 - Use the arrow keys to move your spaceship.
 - Press the SPACEBAR to shoot enemies.
