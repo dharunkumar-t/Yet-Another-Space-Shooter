@@ -44,5 +44,5 @@ A simple space shooter game created for fun and as part of my python learning pr
 
 Enjoy the game!
 
-**Note:** You may notice some extra PNG files like triple bullet and power boost. These were intended for power-up features, which i might added it in the future after i figure out how.
+**Note:** You may notice some extra PNG files like triple bullet and power boost. These were intended for power-up features, which i might added in the future after i figure out how.
 
