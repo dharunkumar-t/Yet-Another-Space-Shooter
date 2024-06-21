@@ -37,7 +37,7 @@ A simple space shooter game created for fun and as part of my python learning pr
     ```
 
 ## Gameplay
-![Gameplay GIF](gameplay.gif)
+![Gameplay GIF](resources/gameplay.gif)
 - Use the arrow keys to move your spaceship.
 - Press the SPACEBAR to shoot enemies.
 - Stay alive, and rack up the highest score possible!
